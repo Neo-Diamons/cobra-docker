@@ -1,0 +1,8 @@
+##
+## Cobra Docker
+## File description:
+## .gitignore
+##
+
+# Ide folder
+.idea
